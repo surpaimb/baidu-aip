@@ -15,8 +15,9 @@
 * the License.
 */
 
-require_once 'AipImageCensor.php';
+namespace Surpaimb\Baidu\Aip;
 
+use Surpaimb\Baidu\Aip\Lib\AipBase;
 /**
  * 内容审核
  */

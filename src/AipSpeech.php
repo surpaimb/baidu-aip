@@ -15,7 +15,9 @@
 * the License.
 */
 
-require_once 'lib/AipBase.php';
+namespace Surpaimb\Baidu\Aip;
+
+use Surpaimb\Baidu\Aip\Lib\AipBase;
 
 /**
  * 百度语音

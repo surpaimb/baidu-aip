@@ -15,7 +15,11 @@
 * the License.
 */
 
-require_once 'lib/AipBase.php';
+namespace Surpaimb\Baidu\Aip;
+
+use Surpaimb\Baidu\Aip\Lib\AipBase;
+
+
 class AipFace extends AipBase {
 
     /**

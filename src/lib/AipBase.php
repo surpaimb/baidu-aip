@@ -15,8 +15,7 @@
 * the License.
 */
 
-require_once 'AipHttpClient.php';
-require_once 'AipBCEUtil.php';
+namespace Surpaimb\Baidu\Aip\Lib;
 
 /**
  * Aip Base 基类
