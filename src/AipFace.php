@@ -15,9 +15,9 @@
 * the License.
 */
 
-namespace Surpaimb\Baidu\Aip;
+namespace Baidu\Aip;
 
-use Surpaimb\Baidu\Aip\Lib\AipBase;
+use Baidu\Aip\Lib\AipBase;
 
 
 class AipFace extends AipBase {

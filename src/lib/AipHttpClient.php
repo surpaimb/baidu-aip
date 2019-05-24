@@ -15,7 +15,7 @@
 * the License.
 */
 
-namespace Surpaimb\Baidu\Aip\Lib;
+namespace Baidu\Aip\Lib;
 
 /**
  * Http Client

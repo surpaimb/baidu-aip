@@ -22,7 +22,7 @@ This should have created:
 
 namespace App\Http\Controllers;
 
-use Surpaimb\Baidu\Aip\AipOcr;
+use Baidu\Aip\AipOcr;
 
 class ExampleController extends Controller
 {
