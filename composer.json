@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Baidu\\Aip\\": "src"
+      "Baidu\\Aip\\": "src/"
     }
   }
 }
