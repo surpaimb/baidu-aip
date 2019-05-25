@@ -15,7 +15,7 @@
 * the License.
 */
 
-namespace Baidu\Aip\Lib;
+namespace Baidu\Aip;
 
 /**
  * BCE Util

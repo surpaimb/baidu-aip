@@ -17,7 +17,7 @@
 
 namespace Baidu\Aip;
 
-use Baidu\Aip\Lib\AipBase;
+// use Baidu\Aip\AipBase;
 
 class AipKg extends AipBase {
 
